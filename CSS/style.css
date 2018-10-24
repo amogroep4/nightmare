@@ -24,4 +24,5 @@ footer {
 
 body {
   background-image: linear-gradient(red, yellow, green);
+  color: white;
 }
