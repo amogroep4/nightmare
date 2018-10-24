@@ -1,0 +1,24 @@
+body {
+	font-family: roboto;
+	width: 80%;
+	margin: 0 auto;
+	background-color: #dcdcdc;
+
+
+}
+
+header {
+	background: #e45dec;
+}4
+main {
+	background: #c4e8dd;
+}
+
+footer {
+	background: yellow;
+}
+
+.rotate {
+	transform: rotate(90deg);
+}
+
